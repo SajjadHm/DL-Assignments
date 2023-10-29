@@ -1,1 +1,3 @@
-P
+- DL-HW1-P1: Decision Tree
+- DL_HW1_P2: PCA
+- DL-HW1-P3: SVM
